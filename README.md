@@ -1,0 +1,3 @@
+# Proyecto-Machine-Learning-Operations-MLOps-
+
+El proyecto es un modelo de machine learning, el cual busca realizar recomendaciones a los usuarios respecto a una serie de peliculas. El proyecto esta compuesto de diferentes archivos de jupyter notebook, uno en donde estan las tranformaciones o ETL, como requerimientos minimos exigidos, otro archivo en donde se realizo el desarrollo de un API para disponibilizarlos en un framework FastAPI y un deployment realizado en Render. Un ultimo archivo en donde se encuentra un analisis exploratorio a la base de datos trabajada anteriormente y finalmente un sistema de recomendación para las peliculas dependiendo del usuario.  
