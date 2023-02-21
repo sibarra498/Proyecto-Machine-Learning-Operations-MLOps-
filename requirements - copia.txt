@@ -1,0 +1,6 @@
+uvicorn[standard]
+fastapi
+python-multipart
+pandas
+numpy
+seaborn
